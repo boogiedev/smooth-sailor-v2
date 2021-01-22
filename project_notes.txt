@@ -1,5 +1,11 @@
 * Refer to project board for todo list
 
+Links:
+
+Concept Wireframe: https://xd.adobe.com/view/a9bb18b2-8610-465f-5d16-c6a9c3ae6734-df8a/?fullscreen&hints=off
+
+Presentation: https://docs.google.com/presentation/d/1-q6BmnpA3g3iZUqWbRSIb8tijdv7r3_3nh1b4StPZmE/edit?usp=sharing
+
 Smooth Sailor V2 Notes:
 
 Coming back to this project has me thinking of all of the things that made the original great, as well as inefficient. Below are the problems from the original project that the V2 aims to solve.
