@@ -1,0 +1,23 @@
+* Refer to project board for todo list
+
+Smooth Sailor V2 Notes:
+
+Coming back to this project has me thinking of all of the things that made the original great, as well as inefficient. Below are the problems from the original project that the V2 aims to solve.
+
+
+Problems:
+
+- Redefine Scope of Project
+    - As with any recommender, there's a lot of domain specific knowledge that should be taken into consideration/learned; reviews and ratings isn't substantial enough data to create the final recommendation from
+    Quetions to consider:
+        - Even if a product has good ratings as well as written reviews, it doesn't gurantee that it will work for everyone (obvious). Skincare is a multi-dimensional problem that is comprised of each user's unique skin complexion and hygeine. If this model is going to suggest REAL items to REAL users, how will you account for adverse reactions from a product? 
+        
+
+- Inefficient scraper
+    - The first scraper took too long to run, as well as relied on using the Selenium package in order to automate opening/scrolling/closing the browser to load review content
+    - Data was stored locally and not pushed to database; there was no database created for the scraped data
+    
+
+    
+
+
