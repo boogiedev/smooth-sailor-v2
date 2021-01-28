@@ -22,6 +22,7 @@ Problems:
 - Inefficient scraper
     - The first scraper took too long to run, as well as relied on using the Selenium package in order to automate opening/scrolling/closing the browser to load review content
         - Opt to use an LXML scraper for efficiency, sephora.com is structured quite nicely and is not messy
+        - LXML parser didnt work, using requests-html instead because there is no way of getting around JS rendered content
     - Data was stored locally and not pushed to database; there was no database created for the scraped data
     
 

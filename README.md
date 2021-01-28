@@ -3,7 +3,7 @@
 Refactored version of Smooth Sailor Project
 
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/boogiedev/smooth-sailor-v2/main/src/media/photos/ss_cover.png"> </img>
+  <img src="https://raw.githubusercontent.com/boogiedev/smooth-sailor-v2/main/media/photos/ss_cover.png"> </img>
 </div>
 
 <p align="center">
@@ -17,5 +17,5 @@ Refactored version of Smooth Sailor Project
 Wireframe Example:
 
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/boogiedev/smooth-sailor-v2/main/src/media/gif/ss_site_lowres.gif"> </img>
+  <img src="https://raw.githubusercontent.com/boogiedev/smooth-sailor-v2/main/media/gif/ss_site_lowres.gif"> </img>
 </div>
