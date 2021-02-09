@@ -2,6 +2,8 @@
 import numpy as np
 import copy
 import pandas as pd
+from itertools import count
+import time
 import lxml
 import html
 import json
@@ -65,7 +67,7 @@ async def get_page_html(page_link:str='', html_element:bool=True) -> lxml.html.E
             # Request Page
             r = await asession.get(page_link, headers={'User-Agent': 'Mozilla/5.0'})
             await r.html.arender()
-            res = html.fromstring(r.html.raw_html) if html_element else r
+            res = lxml.html.fromstring(r.html.raw_html) if html_element else r
         except requests.exceptions.RequestException as e:
             print(e)
         
